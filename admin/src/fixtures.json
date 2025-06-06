@@ -1,0 +1,238 @@
+{
+    "content-material": {
+        "writings": {
+            "essays": {
+                "improving-my-mental-well-being": {
+                    "id": 1,
+                    "title": "Improving my mental well-being",
+                    "author": "Jason Mendes",
+                    "file": "files/Improving my mental well-being.epub",
+                    "cover-img": "improving-mental-JM.png",
+                    "comments": [
+                        { "author": "Veronica Lay",
+                            "content": "I resonate so well to this! I would really love to hear more of what were your strategies that helped you."
+                        },
+                        { "author": "Lawrence NewMan",
+                            "content": "I've found some great strategies for stress management here."
+                        },
+                        { "author": "Didier Drogba",
+                            "content": "The mindfulness techniques suggested in this fixture are very effective."
+                        },
+                        { "author": "Annabel Taylor",
+                            "content": "This essay is a great resource for anyone looking to improve their mental well-being."
+                        },
+                        { "author": "Hozier Fernando",
+                            "content": "I appreciate the emphasis on self-care."
+                        },
+                        { "author": "Louis Elm",
+                            "content": "This essay has provided me with valuable insights into maintaining mental health. Highly recommended!"
+                        }
+
+                    ]
+
+                },
+                "mental-health-and-me": {
+                    "id": 2,
+                    "title": "Mental health and me",
+                    "author": "Lionel Richards",
+                    "file": "files/Mental Health and Me.epub",
+                    "cover-img": "mental-health-and-me-LR.png",
+                    "comments": [
+                        {
+                            "author": "Alexa Smith",
+                            "content": "This fixture has provided me with valuable insights into maintaining mental health. Highly recommended!"
+                        }
+
+                    ]
+                },
+                "gratitude": {
+                    "id": 3,
+                    "title": "Gratitude",
+                    "author": "Andy Ortiz",
+                    "file": "files/andy-ortiz-gratitude.epub",
+                    "cover-img": "andy-ortiz-gratitude.png",
+                    "comments": []
+                },
+                "far-away": {
+                    "id": 4,
+                    "title": "Far Away",
+                    "author": "Alana Duncan",
+                    "file": "files/alana-duncan-far-away.epub",
+                    "cover-img": "alana-duncan-far-away.png",
+                    "comments": []
+                },
+                "last-testimony-of-pepe-pigeon": {
+                    "id": 5,
+                    "title": "Last Testimony of Pepe Pigeon",
+                    "author": "Cheryl White",
+                    "file": "files/last-testimony-of-pepe-pigeon.epub",
+                    "cover-img": "last-testimony-of-pepe-pigeon.png",
+                    "comments": []
+                },
+                "loneliness": {
+                    "id": 6,
+                    "title": "Loneliness",
+                    "author": "Hernandez Cesar",
+                    "file": "files/Loneliness.epub",
+                    "cover-img": "Loneliness.png",
+                    "comments": []
+                }
+            },
+            "poetry": {
+                "poetry-anthology-28": {
+                    "id": 1,
+                    "title": "Poetry Anthology #28",
+                    "author": "Lee Cotman",
+                    "file": "files/PP28-final.epub",
+                    "cover-img": "poetry-v28.png",
+                    "comments": []
+
+                },
+                "poetry-anthology-27": {
+                    "id": 2,
+                    "title": "Poetry Anthology #27",
+                    "author": "Lee Cotman",
+                    "file": "files/PP-27.epub",
+                    "cover-img": "poetry-v27.png",
+                    "comments": []
+                },
+                "beautiful-around-the-clock": {
+                    "id": 3,
+                    "title": "Beautiful Around the Clock",
+                    "author": "Richard Smith",
+                    "file": "files/richard-smith-beautiful-around-the-clock.epub",
+                    "cover-img": "richard-smith-beautiful-around-the-clock.png",
+                    "comments": []
+                },
+                "i-am-where-i-am": {
+                    "id": 4,
+                    "title": "I Am Where I AM",
+                    "author": "Kurt Michaels",
+                    "file": "files/kurt-michaels-i-am-where-i-am.epub",
+                    "cover-img": "kurt-michaels-i-am-where-i-am.png",
+                    "comments": []
+                },
+                "jeff-clark-not-for-me": {
+                    "id": 5,
+                    "title": "Not for Me",
+                    "author": "Jeff Clark",
+                    "file": "files/notforme-jeffclark.epub",
+                    "cover-img": "jeff-clark-not-for-me.png",
+                    "comments": []
+                }
+            }
+        },
+        "programs": {
+            "programs": {
+                "chess-fall-23": {
+                    "id": 1,
+                    "title": "Chess, Fall ’23",
+                    "author": "Lee Cotman",
+                    "file": "files/Chess-Newsletter-Fall-2023-Final.epub",
+                    "cover-img": "chess-program.png"
+
+                },
+                "meditation-spirituality-fall-23": {
+                    "id": 2,
+                    "title": "Meditation & Spirituality, Fall '23",
+                    "author": "Lee Cotman",
+                    "file": "files/23-Fall-meditation-packet-Final.epub",
+                    "cover-img": "meditation-spirit-program.png"
+                },
+                "journal-starter-spring-22": {
+                    "id": 3,
+                    "title": "Journal Starter, Spring '22",
+                    "author": "Gary Fine",
+                    "file": "files/2022-SP-Starter-Journal-Packet-.epub",
+                    "cover-img": "journal-starter-spring.png"
+                },
+                "art-knows-fall-23": {
+                    "id": 4,
+                    "title": "Art knows, Fall '23",
+                    "author": "Lee Cotman",
+                    "file": "files/2023-Fall-ARTKNOWS-to-print.epub",
+                    "cover-img": "artknowsfall2023_image.png"
+                },
+                "app-design-fall-23": {
+                    "id": 5,
+                    "title": "App Design, Fall '23",
+                    "author": "Lee Cotman",
+                    "file": "files/APP-Design-Packet-FINAL.epub",
+                    "cover-img": "app-design-fall23.png"
+                }
+            }
+
+        },
+        "artworks": {
+            "artworks": {
+                "hernandez-cesar": {
+                    "id": 1,
+                    "title": "Time Never ends",
+                    "author": "Hernandez Cesar ",
+                    "file": "hernandez-cesar.png",
+                    "cover-img": "hernandez-cesar.png",
+                    "comments": [
+                        {
+                            "author": "Veronica Lay",
+                            "content": "I resonate so well to this! "
+                        },
+                        {
+                            "author": "Eloise Payne",
+                            "content": "I can truly see the depth of your emotions in this piece."
+                        },
+                        {
+                            "author": "Alexa Smith",
+                            "content": "The use of color in this piece is truly captivating. It adds so much depth and emotion."
+                        },
+                        {
+                            "author": "Andrew Moore",
+                            "content": "This artwork speaks volumes about the transient nature of time. Beautifully done!"
+                        }
+                    ]
+                },
+                "jason-forbes": {
+                    "id": 2,
+                    "title": "Unkown",
+                    "author": "Jason Forbes",
+                    "file": "jason-forbes-4.png",
+                    "cover-img": "jason-forbes-4.png",
+                    "comments": []
+                },
+                "laFluer-catherine": {
+                    "id": 3,
+                    "title": "Unkown",
+                    "author": "LaFLuer Catherine",
+                    "file": "laFleur-Catherine-10.png",
+                    "cover-img": "laFleur-Catherine-10.png",
+                    "comments": []
+                },
+                "tiger420": {
+                    "id": 4,
+                    "title": "Unknown",
+                    "author": "Unkown",
+                    "file": "tiger420.png",
+                    "cover-img": "tiger420.png",
+                    "comments": []
+                },
+                "2015": {
+                    "id": 5,
+                    "title": "Unknown",
+                    "author": "Unkown",
+                    "file": "2015-10.png",
+                    "cover-img": "2015-10.png",
+                    "comments": []
+                }
+
+
+            }
+
+        }
+    },
+    "tasks": {
+        "1": { "id": 1, "title": "Add Lionel's Essay", "completed": false, "description": "Lionel Armstrong essay 'Fearless, dated 07/12" },
+        "2": { "id": 2, "title": "Create cover image for next Poetry collection", "completed": false, "description": "Cover image to reflect fearless theme" },
+        "3": { "id": 3, "title": "Add Gloria Velore's art piece", "completed": false, "description": "Glora Velore 03/09 titled 'A woman in prison'" },
+        "4": { "id": 4, "title": "Add Rebbesa' Essay", "completed": true, "description": "Rebbesa Clark sent on 4/30" },
+        "5": { "id": 5, "title": "Compile Art for Spring 24", "completed": true, "description": "Collate all art dated for next release" }
+    }
+}

@@ -1,33 +1,75 @@
-# .
+# 🎨 JavaScript Artwork Catalog — Desktop PWA
 
-This template should help get you started developing with Vue 3 in Vite.
+A **Vue.js**-powered Progressive Web App (PWA) that brings artwork and writing from incarcerated individuals to your desktop. This application lets users browse, read, and engage with creative expressions in a beautiful, book-like interface.
 
-## Recommended IDE Setup
+> 🗕️ Built in May 2024 | 🛠️ Vue 3 + Vite + Bootstrap + PrimeVue | 🖼️ Inspired by content from [Prisoner Express](https://prisonerexpress.org/)
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+---
 
-## Customize configuration
+## 🚀 Features
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+* 🖼 **Artwork & Writing Catalog**: Browse a curated collection of art and literature.
+* 🔍 **Interactive Search & Pagination**: Quickly find pieces and explore multiple pages of content.
+* 📖 **Immersive Reader View**: Click on any post to open a fullscreen reading mode. Increase or decrease the font size for accessibility, and use arrow keys to flip through entries like a real book.
+* 💬 **Commenting System**: View and engage with user-submitted comments to foster discussion and connection.
+* 🛠 **Admin Panel**: Easily upload new artwork or writing entries to the catalog through a secure admin interface.
+* 📱 **PWA Support**: Install it on your desktop and run it like a native app—even offline!
 
-## Project Setup
+---
 
-```sh
+## 🧰 Tech Stack
+
+* [Vue 3](https://vuejs.org/)
+* [Vite](https://vitejs.dev/)
+* [PrimeVue](https://www.primefaces.org/primevue/)
+* [Bootstrap 5](https://getbootstrap.com/)
+* PWA with service worker and manifest configuration
+
+---
+
+## 🧑‍💻 Getting Started
+
+### 🔧 Recommended IDE Setup
+
+* [Visual Studio Code](https://code.visualstudio.com/)
+* Install the **Volar** extension (disable **Vetur** if installed)
+
+### 📆 Project Setup
+
+Clone or download the repository locally, then install dependencies:
+
+```bash
 pnpm install
 ```
 
-### Compile and Hot-Reload for Development
+### 🚧 Run in Development Mode
 
-```sh
+```bash
 pnpm dev
 ```
 
-### Compile and Minify for Production
+### 📆 Build for Production
 
-```sh
+```bash
 pnpm build
 ```
 
-### Source of Contents
-# Prisoner Express Website: https://prisonerexpress.org/
-# Third party library usage: PrimeVue, Bootstrap
+---
+
+## 📚 Content Source
+
+This project is powered by real submissions hosted on:
+
+🔗 [Prisoner Express Website](https://prisonerexpress.org/)
+
+---
+
+## 🤝 Contributing
+
+Pull requests are welcome if you'd like to improve features, styling, or accessibility. For major changes, please open an issue first to discuss your ideas.
+
+---
+
+## 📝 License
+
+*Add your license information here if applicable (e.g., MIT License).*

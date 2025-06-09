@@ -25,7 +25,6 @@ const router = createRouter({
       component: ReadingView
     },
     {
-      //assign directly for artwork and programs
       path: '/view-all/:type/:category',
       name: 'display-all',
       component: ViewAllView

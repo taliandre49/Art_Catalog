@@ -72,4 +72,4 @@ Pull requests are welcome if you'd like to improve features, styling, or accessi
 
 ## 📝 License
 
-*Add your license information here if applicable (e.g., MIT License).*
+MIT license
